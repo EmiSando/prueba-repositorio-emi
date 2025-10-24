@@ -1,5 +1,6 @@
 # prueba-repositorio-emi
 Primer repo creado en Github
 
-##Descripción
-Ceando el primer commit
+## Descripción
+
+Creando el primer commit
