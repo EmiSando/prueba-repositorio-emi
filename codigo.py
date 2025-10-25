@@ -1,5 +1,5 @@
 
-nombre='Emi'
+nombre='Gastón'
 apellido= 'Sandobal'
 
 saludo = "Hola " + nombre + ' ' + apellido
